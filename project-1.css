@@ -112,7 +112,7 @@ footer{
 	color:#d5d5d5;
 	padding-top:2rem;
 }
-hr .light{
+hr.light{
 	border-top:1px solid #d5d5d5;
 	width:75%;
 	margin:top:.8rem;
@@ -121,7 +121,7 @@ hr .light{
 footer a{
 	color:#d5d5d5;
 }
-hr .light-100{
+hr.light-100{
 	border-top:1px solid #d5d5d5;
 	width:100%;
 	margin:top:.8rem;
