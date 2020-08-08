@@ -6,3 +6,4 @@
 - For Starter Files/Images (zip) : [Click here](https://m.w3newbie.com/d/tutorial-29.zip)
 - Udemy Course Link : [Click here](https://w3newbie.com/nuno-course)
 - W3newbies website : [Click here](https://w3newbie.com/build-a-responsive-bootstrap-website-start-to-finish-with-bootstrap-4-html5-css3/)
+- [![Generic badge](https://img.shields.io/badge/VIEW-DEMO-<green>.svg)](https://aayushi-mittal.github.io/GCI-Milestone-6-Projects/project-1.html)
