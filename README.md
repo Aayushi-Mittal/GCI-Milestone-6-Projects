@@ -11,7 +11,7 @@
 
 <br>
 
-## PROJECT-1 : W3newbies
+## PROJECT-2 : Daily Tuition
 
 - For You Tube Tutorial : [Click here](https://www.youtube.com/watch?v=k8ioDxSEjZU)
 - Images (Website) : [Click here](https://www.pexels.com/)
